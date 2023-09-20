@@ -1,4 +1,4 @@
-# adivinhe-a-palavra
+# wordle game
 # tecnologias usadas 
 ## HTML e CSS 
 ## projeto wordle game feito desafio 7 days od codes da Alura
